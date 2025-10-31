@@ -1,6 +1,5 @@
 # LangGraph-ChatBot
 
-#  LangGraph Conversational Flow
 
 An interactive multi-step chatbot built using **LangGraph** and **LangChain**, powered by **GPT-4o**.  
 This project demonstrates how to create **stateful conversational workflows** using a graph-based structure.
